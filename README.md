@@ -167,3 +167,5 @@ smCFU8ec8HNYPGzzWv+GVFTGS0ZVBntGqLgwWmopwN2OIIpQpdiM
 
 resources: 
 * [ufw](https://www.howtoforge.com/tutorial/ufw-uncomplicated-firewall-on-ubuntu-15-04/)
+* [postgresql](https://www.digitalocean.com/community/tutorials/how-to-create-remove-manage-tables-in-postgresql-on-a-cloud-server#how-to-create-a-table-in-postgresql)
+* [how to deploy python on apache](http://www.islandtechph.com/2017/10/21/how-to-deploy-a-flask-python-2-7-application-on-a-live-ubuntu-16-04-linux-server-running-apache2/)
